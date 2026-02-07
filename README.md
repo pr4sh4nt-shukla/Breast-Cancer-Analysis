@@ -153,12 +153,11 @@ This project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset**, which is
 
 ## 📧 Contact
 
-**Your Name**  
-📧 Email: your.email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
+**Prashant Shukla**  
+📧 Email: prashantshukla8851@gmail.com
+💼 LinkedIn: [Prashant Shukla](https://www.linkedin.com/in/prashant-shukla-58ba19373) 
 
-**Project Link:** [https://github.com/yourusername/breast-cancer-ml-comparison](https://github.com/yourusername/breast-cancer-ml-comparison)
+**Project Link:** [https://github.com/pr4sh4nt-shukla/Breast-Cancer-Analysis](https://github.com/pr4sh4nt-shukla/Breast-Cancer-Analysis)
 
 ---
 
