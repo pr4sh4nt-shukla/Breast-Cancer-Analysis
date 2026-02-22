@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Classification - ML Model Comparison
+# 🩺 **Breast Cancer Classification** - ML Model Comparison
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange)](https://scikit-learn.org/)
